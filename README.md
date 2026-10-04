@@ -12,18 +12,25 @@ The project was developed as part of an Excel data analytics learning process, w
 The project demonstrates the following Excel skills:
 
 📊 Data Visualization & Charts
+
 🧮 Excel Formulas & Functions
+
 🔽 Data Validation
+
 📋 Data Analysis
+
 🎯 Interactive Dashboard Design
 
-#cDataset
+# Dataset
 
 The dataset contains real-world data jobs information, I used the dataset from the course I took. It includes variables related to:
 
 💼 Job titles
+
 💰 Salaries
+
 📍 Job locations
+
 🛠️ Required skills
 
 These variables were used to explore salary differences across roles and locations and to create an interactive dashboard for easier analysis.
