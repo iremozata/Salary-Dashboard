@@ -8,6 +8,8 @@ This project is an interactive Excel dashboard designed to help job seekers expl
 
 The project was developed as part of an Excel data analytics learning process, with a focus on turning raw job market data into clear and useful insights through data analysis and visualization.
 
+**Excel File:** [Data-Science-Salary-Dashboard.xlsx](Data-Science-Salary-Dashboard.xlsx)
+
 # Excel Skills Used
 
 The project demonstrates the following Excel skills:
