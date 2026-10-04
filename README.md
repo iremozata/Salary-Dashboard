@@ -1,5 +1,6 @@
 # Salary-Dashboard
 
+![Data Jobs Salary Dashboard](Interactive_Dashboard.png)
 
 # Overview
 
